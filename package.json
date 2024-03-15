@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "teaena": "^1.1.2"
+  },
+  "name": "tealaunch",
+  "version": "1.1.2",
+  "main": "tealaunch.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/franco119/tealaunch"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/franco119/tealaunch/issues"
+  },
+  "homepage": "https://github.com/franco119/tealaunch#readme",
+  "description": ""
+}
